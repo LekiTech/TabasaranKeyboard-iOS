@@ -43,8 +43,8 @@ needs a reviewed Tabasaran version:
 | emojiCategoryTitles | Смайлики и люди, Животные и природа, Еда и напитки, Активность, Путешествия и места, Предметы, Символы, Флаги |
 
 Also the extension's `Localizable.xcstrings` («Show «таб» on the space
-bar», en/ru) and the display name «Tabasaran» / «Табасаранский» in both
-`InfoPlist.xcstrings` (a Tabasaran display name could be added as a `tab`
+bar», en/ru) and the display name «Tabasaran» / «Табасаранский» in the keyboard
+extension's `InfoPlist.xcstrings` (a Tabasaran display name could be added as a `tab`
 localization once iOS lists the language).
 
 The engine's own labels (for example the explanatory subtitles under the

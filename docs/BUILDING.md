@@ -15,7 +15,7 @@
 | Extension bundle ID | `org.lekitech.tabasarankeyboard.dev.TabasaranKeyboardExtension` | `org.lekitech.tabasarankeyboard.TabasaranKeyboardExtension` |
 | App Group (`TABASARAN_APP_GROUP_ID`, both entitlements) | `group.org.lekitech.tabasarankeyboard.dev` | `group.org.lekitech.tabasarankeyboard` |
 | Signing | Automatic, team `RC94H8KQYA` | Manual, `Apple Distribution`, team and profiles empty |
-| Display name | Tabasaran / Табасаранский | same |
+| Display name | app: Tabasaran / Табасаран чӀал · keyboard: Tabasaran / Табасаранский | same |
 
 Debug and Release use different identifiers on purpose: bundle IDs and App
 Groups are unique across Apple developer teams, so a Debug build registered
