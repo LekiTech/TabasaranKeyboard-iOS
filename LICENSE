@@ -1,0 +1,33 @@
+Copyright © 2026 LekiTech (https://github.com/LekiTech). All rights reserved.
+
+This repository — including its source code, app icons, and the bundled
+word dictionary — is made available for viewing and reference only.
+
+No permission is granted to use, copy, modify, merge, publish, distribute,
+sublicense, or sell any part of this repository, in source or binary form,
+for any purpose, without prior written permission from LekiTech.
+
+Viewing and forking on GitHub are permitted solely to the extent required by
+the GitHub Terms of Service.
+
+Third-party components remain under their own licenses:
+- The assignment of the Tabasaran digraphs to Russian keys on a long press
+  (data/tab/Ali_Kuzhuget/mapping/tab_key_mapping_ext.json) and the
+  Tabasaran letter count (frequencies/tab_monocorpus_freq.csv) from
+  https://github.com/Agisight/rf-keyboard-corpora — MIT License,
+  Copyright (c) 2025 Agisight (Ali Kuzhuget).
+- The transcription of the Russian iOS keyboard (layout/rus) from
+  https://github.com/Agisight/ios-system-keyboard — MIT License,
+  Copyright (c) 2025 Agisight.
+  Copies of both licenses and of the files used are in
+  Tests/TabasaranCoreTests/Fixtures/agisight/.
+- Dictionary sources (word counts and word pairs, not the texts): the
+  Tabasaran edition of the magazine «Женщина Дагестана» as OCR text of the
+  LingConLab parallel corpus; the headwords and example sentences of the
+  Tabasaran–Russian dictionary by B. G.-K. Khanmagomedov and K. T. Shalbuzov
+  (2001) as digitized in LekiTech/data-sources; and the Intercontinental
+  Dictionary Series word list. See docs/DICTIONARY.md.
+- Emoji catalog data (General Keyboard) derived from Unicode® emoji-test.txt
+  — © Unicode, Inc.
+
+For permission requests, contact LekiTech: https://github.com/LekiTech

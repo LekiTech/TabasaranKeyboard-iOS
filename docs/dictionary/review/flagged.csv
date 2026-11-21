@@ -1,0 +1,684 @@
+priority,word,count,ocr_count,clean_count,word_lists,base_score,categories,notes
+high,пи,1199,1199,0,0,11990,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+high,кваин,338,338,0,0,3380,possibly lost palochka,attested with palochka: кӏваин (427)
+high,апуз,196,196,0,0,1960,possibly lost palochka,attested with palochka: апӏуз (1367)
+high,кури,194,194,0,0,1940,possibly lost palochka,attested with palochka: кӏури (484)
+high,гъапну,182,181,1,0,1820,possibly lost palochka,attested with palochka: гъапӏну (501)
+high,цийи,157,157,0,0,1570,possibly lost palochka,attested with palochka: цӏийи (400)
+high,кул,108,108,0,0,1080,possibly lost palochka,attested with palochka: кӏул (301)
+high,сатиди,105,105,0,0,1050,possibly lost palochka,attested with palochka: сатӏиди (128)
+high,аьгь,103,103,0,0,1030,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+high,юкв,100,100,0,0,1000,possibly lost palochka,attested with palochka: юкӏв (334)
+high,кваъ,80,80,0,0,800,possibly lost palochka,attested with palochka: кӏваъ (177)
+high,бици,79,79,0,0,790,possibly lost palochka,attested with palochka: бицӏи (335)
+high,апуб,75,74,1,0,750,possibly lost palochka,attested with palochka: апӏуб (790)
+high,кваълан,74,74,0,0,740,possibly lost palochka,attested with palochka: кӏваълан (85)
+high,апбан,73,73,0,0,730,possibly lost palochka,attested with palochka: апӏбан (349)
+high,дугьу,58,56,2,0,580,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дугъу (2577)
+high,апру,56,56,0,0,560,possibly lost palochka,attested with palochka: апӏру (359)
+high,бицир,56,56,0,0,560,possibly lost palochka,attested with palochka: бицӏир (296)
+high,го,56,56,0,0,560,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+high,талаб,55,55,0,0,550,possibly lost palochka,attested with palochka: тӏалаб (114)
+high,циб,55,55,0,0,550,possibly lost palochka,attested with palochka: цӏиб (222)
+high,багьри,54,54,0,0,540,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: багъри (540)
+high,е-тай,50,50,0,0,500,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+high,ссср-ин,50,50,0,0,500,same letter three times,"abbreviation, interjection or noise"
+high,сати,48,48,0,0,480,possibly lost palochka,attested with palochka: сатӏи (77)
+high,кули,47,47,0,0,470,possibly lost palochka,attested with palochka: кӏули (141)
+high,апури,46,46,0,0,460,possibly lost palochka,attested with palochka: апӏури (652)
+high,ишруб,46,46,0,0,460,possibly «пӏ» read as «ш»,OCR-only; the «пӏ» form is attested: ипӏруб (1)
+high,хх,45,45,0,0,450,two-letter token outside the word lists; no vowel,"a fragment, an abbreviation or noise; abbreviation or noise"
+high,саӏиди,44,44,0,0,440,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+high,удучвну,44,44,0,0,440,possibly lost palochka,attested with palochka: удучӏвну (157)
+high,кван,43,43,0,0,430,possibly lost palochka,attested with palochka: кӏван (66)
+high,ца,40,40,0,0,400,possibly lost palochka; two-letter token outside the word lists,"attested with palochka: цӏа (61); a fragment, an abbreviation or noise"
+high,чаъ,40,40,0,0,400,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+high,апура,37,37,0,0,370,possibly lost palochka,attested with palochka: апӏура (412)
+high,бицидариз,35,35,0,0,350,possibly lost palochka,attested with palochka: бицӏидариз (203)
+high,хьъа,35,35,0,0,350,two-letter token outside the word lists; not merged (M4),"a fragment, an abbreviation or noise; M4 two signs in a row: two attested readings: хъа (3648), хьа (258); repaired form would be хъа / хьа"
+high,ккваин,33,33,0,0,330,possibly extra doubled consonant,attested: кваин (338)
+high,гьапнийи,31,31,0,0,310,possibly lost palochka; «гь» where «гъ» is far more frequent,attested with palochka: гьапӏнийи (227); possibly ъ and ь confused; attested: гъапнийи (506)
+high,апин,29,29,0,0,290,possibly lost palochka,attested with palochka: апӏин (142)
+high,апуйи,28,28,0,0,280,possibly lost palochka,attested with palochka: апӏуйи (355)
+high,чур,28,28,0,0,280,possibly lost palochka,attested with palochka: чӏур (81)
+high,гаф-чал,26,26,0,0,260,possibly lost palochka,attested with palochka: гаф-чӏал (115)
+high,йн,26,0,26,1,261,no vowel,abbreviation or noise
+high,чалниинди,26,26,0,0,260,possibly lost palochka,attested with palochka: чӏалниинди (176)
+high,айтан,25,25,0,0,250,possibly lost palochka,attested with palochka: айтӏан (36)
+high,цар,25,25,0,0,250,possibly lost palochka,attested with palochka: цӏар (32)
+high,хьасин,24,24,0,0,240,«хь» where «хъ» is far more frequent,possibly ъ and ь confused; attested: хъасин (695)
+high,ккади,23,23,0,0,230,possibly extra doubled consonant,attested: кади (239)
+high,апурайи,22,22,0,0,220,possibly lost palochka,attested with palochka: апӏурайи (289)
+high,кваз,22,22,0,0,220,possibly lost palochka,attested with palochka: кӏваз (102)
+high,ги,21,21,0,0,210,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+high,зу,21,21,0,0,210,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+high,ухдитан,21,21,0,0,210,possibly lost palochka,attested with palochka: ухдитӏан (26)
+high,чал,21,21,0,0,210,possibly lost palochka,attested with palochka: чӏал (277)
+high,аӏуз,20,20,0,0,200,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+high,гвачнин,20,20,0,0,200,possibly lost palochka,attested with palochka: гвачӏнин (29)
+high,учру,20,20,0,0,200,possibly lost palochka,attested with palochka: учӏру (59)
+normal,гьапи,19,19,0,0,190,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъапи (236)
+normal,гьулан,19,19,0,0,190,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъулан (412)
+normal,апураза,18,18,0,0,180,possibly lost palochka,attested with palochka: апӏураза (144)
+normal,гаквлин,18,18,0,0,180,possibly lost palochka,attested with palochka: гакӏвлин (30)
+normal,чалнан,18,18,0,0,180,possibly lost palochka,attested with palochka: чӏалнан (145)
+normal,аьнтикьа,17,17,0,0,170,possibly lost palochka,attested with palochka: аьнтӏикьа (46)
+normal,гъапунза,17,16,1,0,170,possibly lost palochka,attested with palochka: гъапӏунза (52)
+normal,гьъашнийи,17,17,0,0,170,not merged (M4),"M4 two signs in a row: two attested readings: гъашнийи (592), гьашнийи (226); repaired form would be гъашнийи / гьашнийи"
+normal,кару,17,17,0,0,170,possibly lost palochka,attested with palochka: кӏару (133)
+normal,чиви,17,17,0,0,170,possibly lost palochka,attested with palochka: чӏиви (65)
+normal,чивиди,17,17,0,0,170,possibly lost palochka,attested with palochka: чӏивиди (70)
+normal,бицину,16,16,0,0,160,possibly lost palochka,attested with palochka: бицӏину (74)
+normal,гьул,16,15,1,0,160,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъул (238)
+normal,гьушнийи,16,16,0,0,160,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъушнийи (174)
+normal,гьъапиш,16,16,0,0,160,not merged (M4),"M4 two signs in a row: two attested readings: гъапиш (236), гьапиш (78); repaired form would be гъапиш / гьапиш"
+normal,каж,16,16,0,0,160,possibly lost palochka,attested with palochka: кӏаж (21)
+normal,не,16,16,0,0,160,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,юкь,16,15,1,0,160,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,би,15,15,0,0,150,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,дапнайи,15,15,0,0,150,possibly lost palochka,attested with palochka: дапӏнайи (236)
+normal,ккудубкну,15,15,0,0,150,possibly lost palochka,attested with palochka: ккудубкӏну (134)
+normal,аӏуйи,14,14,0,0,140,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,гьапну,14,14,0,0,140,possibly lost palochka; «гь» where «гъ» is far more frequent,attested with palochka: гьапӏну (113); possibly ъ and ь confused; attested: гъапну (182)
+normal,дугьан,14,13,1,0,140,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дугъан (2078)
+normal,их,14,14,0,0,140,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,цийикӏултӏан,14,14,0,0,140,possibly lost palochka,attested with palochka: цӏийикӏултӏан (30)
+normal,эй,14,14,0,0,140,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,шу,13,13,0,0,130,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,гьулаъ,12,11,1,0,120,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъулаъ (274)
+normal,дишну,12,12,0,0,120,possibly «пӏ» read as «ш»,OCR-only; the «пӏ» form is attested: дипӏну (1)
+normal,ст,12,12,0,0,120,two-letter token outside the word lists; no vowel,"a fragment, an abbreviation or noise; abbreviation or noise"
+normal,цибди,12,12,0,0,120,possibly lost palochka,attested with palochka: цӏибди (28)
+normal,апруб,11,11,0,0,110,possibly lost palochka,attested with palochka: апӏруб (28)
+normal,апуру,11,11,0,0,110,possibly lost palochka,attested with palochka: апӏуру (273)
+normal,ваь,11,11,0,0,110,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,гьафнийи,11,11,0,0,110,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъафнийи (313)
+normal,гьъашну,11,11,0,0,110,not merged (M4),"M4 two signs in a row: two attested readings: гъашну (463), гьашну (111); repaired form would be гъашну / гьашну"
+normal,дубхъну,11,11,0,0,110,«хъ» where «хь» is far more frequent,possibly ъ and ь confused; attested: дубхьну (203)
+normal,кваан,11,11,0,0,110,possibly lost palochka,attested with palochka: кӏваан (27)
+normal,рд,11,11,0,0,110,two-letter token outside the word lists; no vowel,"a fragment, an abbreviation or noise; abbreviation or noise"
+normal,самолёт,11,10,1,0,110,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: самолет (9)"
+normal,фука,11,11,0,0,110,possibly lost palochka,attested with palochka: фукӏа (259)
+normal,апруган,10,10,0,0,100,possibly lost palochka,attested with palochka: апӏруган (56)
+normal,аӏури,10,10,0,0,100,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,бы,10,10,0,0,100,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,гьавриъ,10,10,0,0,100,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъавриъ (646)
+normal,дапна,10,10,0,0,100,possibly lost palochka,attested with palochka: дапӏна (114)
+normal,дугъхъан,10,10,0,0,100,«хъ» where «хь» is far more frequent,possibly ъ and ь confused; attested: дугъхьан (143)
+normal,дугькан,10,10,0,0,100,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дугъкан (101)
+normal,ии,10,10,0,0,100,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,ригь,10,10,0,0,100,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: ригъ (111)
+normal,хьял,10,10,0,0,100,«хь» where «хъ» is far more frequent,possibly ъ and ь confused; attested: хъял (137)
+normal,царар,10,10,0,0,100,possibly lost palochka,attested with palochka: цӏарар (29)
+normal,чигъар,10,10,0,0,100,possibly lost palochka,attested with palochka: чӏигъар (46)
+normal,апурача,9,9,0,0,90,possibly lost palochka,attested with palochka: апӏурача (71)
+normal,аьть,9,9,0,0,90,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,аӏуб,9,9,0,0,90,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,гъадабгьну,9,8,1,0,90,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъадабгъну (113)
+normal,дагьустан,9,9,0,0,90,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дагъустан (708)
+normal,де,9,8,1,0,90,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,деъ,9,9,0,0,90,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,йицуд,9,9,0,0,90,possibly lost palochka,attested with palochka: йицӏуд (41)
+normal,ти,9,9,0,0,90,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,тублан,9,9,0,0,90,possibly lost palochka,attested with palochka: тӏублан (17)
+normal,ать,8,8,0,0,80,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,аышкьниинди,8,8,0,0,80,possibly «аь» read as «аы»,attested: аьшкьниинди (53)
+normal,аӏру,8,8,0,0,80,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,багьъри,8,8,0,0,80,not merged (M4),"M4 two signs in a row: two attested readings: багъри (538), багьри (54); repaired form would be багъри / багьри"
+normal,гаквлар,8,8,0,0,80,possibly lost palochka,attested with palochka: гакӏвлар (19)
+normal,гафар-чалар,8,8,0,0,80,possibly lost palochka,attested with palochka: гафар-чӏалар (44)
+normal,гъагьи,8,8,0,0,80,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъагъи (169)
+normal,гъакну,8,8,0,0,80,possibly lost palochka,attested with palochka: гъакӏну (30)
+normal,гьапнийза,8,8,0,0,80,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъапнийза (101)
+normal,гьъашнийза,8,8,0,0,80,not merged (M4),"M4 two signs in a row: two attested readings: гъашнийза (137), гьашнийза (65); repaired form would be гъашнийза / гьашнийза"
+normal,е-той,8,8,0,0,80,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,кажар,8,8,0,0,80,possibly lost palochka,attested with palochka: кӏажар (22)
+normal,мютюгъ,8,8,0,0,80,possibly lost palochka,attested with palochka: мютӏюгъ (14)
+normal,рф,8,8,0,0,80,two-letter token outside the word lists; no vowel,"a fragment, an abbreviation or noise; abbreviation or noise"
+normal,талабар,8,8,0,0,80,possibly lost palochka,attested with palochka: тӏалабар (20)
+normal,удучвнийи,8,8,0,0,80,possibly lost palochka,attested with palochka: удучӏвнийи (34)
+normal,хьана,8,8,0,0,80,«хь» where «хъ» is far more frequent,possibly ъ and ь confused; attested: хъана (277)
+normal,цин,8,8,0,0,80,possibly lost palochka,attested with palochka: цӏин (11)
+normal,цӏийикӏултан,8,8,0,0,80,possibly lost palochka,attested with palochka: цӏийикӏултӏан (30)
+normal,айибтан,7,7,0,0,70,possibly lost palochka,attested with palochka: айибтӏан (18)
+normal,апри,7,7,0,0,70,possibly lost palochka,attested with palochka: апӏри (26)
+normal,вариӏан,7,7,0,0,70,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,гъапишра,7,7,0,0,70,possibly lost palochka,attested with palochka: гъапӏишра (9)
+normal,гъя,7,5,2,0,70,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,гьазанмиш,7,6,1,0,70,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъазанмиш (158)
+normal,гьира,7,7,0,0,70,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъира (161)
+normal,гьушнийза,7,7,0,0,70,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъушнийза (77)
+normal,дубхънайи,7,7,0,0,70,«хъ» where «хь» is far more frequent,possibly ъ and ь confused; attested: дубхьнайи (137)
+normal,дугьаз,7,7,0,0,70,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дугъаз (1423)
+normal,мапан,7,7,0,0,70,possibly lost palochka,attested with palochka: мапӏан (83)
+normal,ме,7,7,0,0,70,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,ре,7,7,0,0,70,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,сагъь,7,7,0,0,70,not merged (M4),"M4 two signs in a row: two attested readings: сагъ (182), сагь (39); repaired form would be сагъ / сагь"
+normal,ссср-иъ,7,7,0,0,70,same letter three times; hyphen part shorter than 2 letters,"abbreviation, interjection or noise; abbreviation or broken hyphenation"
+normal,ук,7,6,1,0,70,possibly lost palochka; two-letter token outside the word lists,"attested with palochka: укӏ (34); a fragment, an abbreviation or noise"
+normal,хаталу,7,7,0,0,70,possibly lost palochka,attested with palochka: хатӏалу (21)
+normal,хъюгьнийи,7,7,0,0,70,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: хъюгънийи (118)
+normal,чалназ,7,7,0,0,70,possibly lost palochka,attested with palochka: чӏалназ (44)
+normal,чигъ,7,7,0,0,70,possibly lost palochka,attested with palochka: чӏигъ (28)
+normal,чяаьн,7,7,0,0,70,possibly lost palochka,attested with palochka: чӏяаьн (27)
+normal,шофёр,7,7,0,0,70,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: шофер (10)"
+normal,аз,6,6,0,0,60,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,актёрар,6,6,0,0,60,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: актерар (18)"
+normal,анжагъь,6,6,0,0,60,not merged (M4),"M4 two signs in a row: two attested readings: анжагъ (389), анжагь (53); repaired form would be анжагъ / анжагь"
+normal,аышкь,6,6,0,0,60,possibly «аь» read as «аы»,attested: аьшкь (53)
+normal,аьф,6,6,0,0,60,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,аӏиди,6,6,0,0,60,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,бажаругь,6,6,0,0,60,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: бажаругъ (62)
+normal,вуӏ,6,6,0,0,60,palochka after a letter other than к п т ц ч; two-letter token outside the word lists,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling; a fragment, an abbreviation or noise"
+normal,гьизилин,6,6,0,0,60,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъизилин (108)
+normal,гьушну,6,5,1,0,60,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъушну (204)
+normal,гьъашу,6,6,0,0,60,not merged (M4),"M4 two signs in a row: two attested readings: гъашу (312), гьашу (67); repaired form would be гъашу / гьашу"
+normal,гьъи,6,6,0,0,60,two-letter token outside the word lists; not merged (M4),"a fragment, an abbreviation or noise; M4 two signs in a row: two attested readings: гъи (472), гьи (133); repaired form would be гъи / гьи"
+normal,дапну,6,6,0,0,60,possibly lost palochka,attested with palochka: дапӏну (308)
+normal,дийигьнайи,6,6,0,0,60,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дийигънайи (82)
+normal,ду,6,6,0,0,60,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,жж,6,6,0,0,60,two-letter token outside the word lists; no vowel,"a fragment, an abbreviation or noise; abbreviation or noise"
+normal,жямяаьтлугъь,6,6,0,0,60,not merged (M4),"M4 two signs in a row: two attested readings: жямяаьтлугъ (156), жямяаьтлугь (29); repaired form would be жямяаьтлугъ / жямяаьтлугь"
+normal,ичи,6,6,0,0,60,possibly lost palochka,attested with palochka: ичӏи (36)
+normal,йи,6,5,1,0,60,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,йищбариинди,6,6,0,0,60,not merged (M3),M3 «щ» for «цӏ»: repaired form is less frequent (4); repaired form would be йицӏбариинди
+normal,кулиз,6,6,0,0,60,possibly lost palochka,attested with palochka: кӏулиз (111)
+normal,кюмёк,6,0,6,0,60,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: кюмек (572)"
+normal,кӏак,6,3,3,0,60,possibly lost palochka,attested with palochka: кӏакӏ (9)
+normal,пр-т,6,6,0,0,60,no vowel; hyphen part shorter than 2 letters,abbreviation or noise; abbreviation or broken hyphenation
+normal,саӏи,6,6,0,0,60,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,тагъру,6,6,0,0,60,possibly lost palochka,attested with palochka: тӏагъру (11)
+normal,танкь,6,6,0,0,60,possibly lost palochka,attested with palochka: тӏанкь (7)
+normal,турфан,6,6,0,0,60,possibly lost palochka,attested with palochka: тӏурфан (13)
+normal,тяаьм,6,6,0,0,60,possibly lost palochka,attested with palochka: тӏяаьм (15)
+normal,удубчвну,6,6,0,0,60,possibly lost palochka,attested with palochka: удубчӏвну (22)
+normal,учухъ,6,6,0,0,60,«хъ» where «хь» is far more frequent,possibly ъ and ь confused; attested: учухь (65)
+normal,уягь,6,6,0,0,60,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: уягъ (96)
+normal,цийивалар,6,6,0,0,60,possibly lost palochka,attested with palochka: цӏийивалар (6)
+normal,ччӏал,6,6,0,0,60,possibly extra doubled consonant,attested: чӏал (277)
+normal,аргьаж,5,5,0,0,50,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: аргъаж (56)
+normal,аъьйшат,5,5,0,0,50,not merged (M4),"M4 two signs in a row: two attested readings: аъйшат (13), аьйшат (71); repaired form would be аъйшат / аьйшат"
+normal,аы,5,5,0,0,50,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,аьгъью,5,5,0,0,50,not merged (M4),"M4 two signs in a row: two attested readings: аьгъю (246), аьгью (390); repaired form would be аьгъю / аьгью"
+normal,багь,5,5,0,0,50,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: багъ (52)
+normal,битмивӏш,5,0,5,0,50,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,бищ,5,5,0,0,50,not merged (M3),M3 «щ» for «цӏ»: repaired form is less frequent (1); repaired form would be бицӏ
+normal,ве,5,5,0,0,50,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,гаквликан,5,5,0,0,50,possibly lost palochka,attested with palochka: гакӏвликан (7)
+normal,гъидикну,5,5,0,0,50,possibly lost palochka,attested with palochka: гъидикӏну (9)
+normal,гьахьну,5,4,1,0,50,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъахьну (1505)
+normal,гьубшу,5,5,0,0,50,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъубшу (104)
+normal,гьулаз,5,4,1,0,50,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъулаз (153)
+normal,гьъийин,5,5,0,0,50,not merged (M4),"M4 two signs in a row: two attested readings: гъийин (220), гьийин (31); repaired form would be гъийин / гьийин"
+normal,ибшриӏ,5,5,0,0,50,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,ишуру,5,5,0,0,50,possibly «пӏ» read as «ш»,OCR-only; the «пӏ» form is attested: ипӏуру (2)
+normal,кваъланди,5,5,0,0,50,possibly lost palochka,attested with palochka: кӏваъланди (7)
+normal,ккебгьнийи,5,5,0,0,50,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: ккебгънийи (57)
+normal,кубку,5,5,0,0,50,possibly lost palochka,attested with palochka: кубкӏу (9)
+normal,кулиъ,5,5,0,0,50,possibly lost palochka,attested with palochka: кӏулиъ (51)
+normal,кьяляхьъ,5,5,0,0,50,not merged (M4),"M4 two signs in a row: two attested readings: кьяляхъ (613), кьяляхь (145); repaired form would be кьяляхъ / кьяляхь"
+normal,кюлёр,5,0,5,0,50,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: кюлер (11)"
+normal,лётчик,5,5,0,0,50,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: летчик (4)"
+normal,мик,5,3,2,0,50,possibly lost palochka,attested with palochka: микӏ (20)
+normal,нежбёр,5,0,5,0,50,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: нежбер (6)"
+normal,ое,5,5,0,0,50,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,ры,5,5,0,0,50,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,учвну,5,5,0,0,50,possibly lost palochka,attested with palochka: учӏвну (27)
+normal,хутлариъ,5,5,0,0,50,possibly lost palochka,attested with palochka: хутӏлариъ (9)
+normal,хъайиз,5,5,0,0,50,«хъ» where «хь» is far more frequent,possibly ъ and ь confused; attested: хьайиз (65)
+normal,хъугьвал,5,5,0,0,50,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: хъугъвал (67)
+normal,хьъюгъю,5,5,0,0,50,not merged (M4),"M4 two signs in a row: two attested readings: хъюгъю (39), хьюгъю (23); repaired form would be хъюгъю / хьюгъю"
+normal,цигал,5,5,0,0,50,possibly lost palochka,attested with palochka: цӏигал (9)
+normal,цийиди,5,5,0,0,50,possibly lost palochka,attested with palochka: цӏийиди (9)
+normal,чалар,5,5,0,0,50,possibly lost palochka,attested with palochka: чӏалар (60)
+normal,ша,5,5,0,0,50,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,шт,5,5,0,1,51,no vowel,abbreviation or noise
+normal,айӏуз,4,4,0,0,40,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,актёрарин,4,4,0,0,40,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: актерарин (12)"
+normal,анжагьъ,4,4,0,0,40,not merged (M4),"M4 two signs in a row: two attested readings: анжагъ (389), анжагь (53); repaired form would be анжагъ / анжагь"
+normal,аьгьъювалар,4,4,0,0,40,not merged (M4),"M4 two signs in a row: two attested readings: аьгъювалар (134), аьгьювалар (139); repaired form would be аьгъювалар / аьгьювалар"
+normal,аьгья,4,3,1,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: аьгъя (157)
+normal,аӏураза,4,4,0,0,40,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,аӏурайи,4,4,0,0,40,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,бикуз,4,4,0,0,40,possibly lost palochka,attested with palochka: бикӏуз (54)
+normal,бицири,4,4,0,0,40,possibly lost palochka,attested with palochka: бицӏири (11)
+normal,биццидар,4,4,0,0,40,possibly extra doubled consonant,attested: бицидар (69)
+normal,ва-а-а,4,4,0,0,40,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,вариттан,4,4,0,0,40,possibly extra doubled consonant,attested: варитан (135)
+normal,ваьъ,4,4,0,0,40,two-letter token outside the word lists; not merged (M4),"a fragment, an abbreviation or noise; M4 two signs in a row: two attested readings: ваъ (410), ваь (11); repaired form would be ваъ / ваь"
+normal,гукни,4,4,0,0,40,possibly lost palochka,attested with palochka: гукӏни (12)
+normal,гъагьиди,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъагъиди (88)
+normal,гъайгьушнаъ,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъайгъушнаъ (43)
+normal,гъалабулугь,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъалабулугъ (47)
+normal,гъягьру,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъягъру (54)
+normal,гьабхьи,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъабхьи (219)
+normal,гьабхьну,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъабхьну (692)
+normal,гьагъи,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъагъи (169)
+normal,гьагъиди,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъагъиди (88)
+normal,гьадабгъну,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъадабгъну (113)
+normal,гьадабгъуз,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъадабгъуз (169)
+normal,гьафи,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъафи (185)
+normal,гьеъ,4,4,0,0,40,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,гьягьюз,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъягьюз (133)
+normal,гюллё,4,0,4,0,40,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: гюлле (30)"
+normal,дарапуб,4,4,0,0,40,possibly lost palochka,attested with palochka: дарапӏуб (21)
+normal,дараӏди,4,4,0,0,40,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,девлёт,4,0,4,0,40,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: девлет (85)"
+normal,дугьъу,4,4,0,0,40,not merged (M4),"M4 two signs in a row: two attested readings: дугъу (2577), дугьу (58); repaired form would be дугъу / дугьу"
+normal,дугьъхьан,4,4,0,0,40,not merged (M4),"M4 two signs in a row: two attested readings: дугъхьан (143), дугьхьан (52); repaired form would be дугъхьан / дугьхьан"
+normal,думуӏан,4,4,0,0,40,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,дцп,4,4,0,0,40,no vowel,abbreviation or noise
+normal,жх,4,4,0,0,40,two-letter token outside the word lists; no vowel,"a fragment, an abbreviation or noise; abbreviation or noise"
+normal,зи,4,4,0,0,40,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,йищур,4,4,0,0,40,not merged (M3),M3 «щ» for «цӏ»: repaired form is less frequent (3); repaired form would be йицӏур
+normal,какӏ,4,4,0,0,40,possibly lost palochka,attested with palochka: кӏакӏ (9)
+normal,ккваъ,4,4,0,0,40,possibly extra doubled consonant,attested: кваъ (80)
+normal,ккваълан,4,4,0,0,40,possibly extra doubled consonant,attested: кваълан (74)
+normal,ккундушра-ккундаршра,4,4,0,0,40,very long token,possibly glued words
+normal,кубчвну,4,4,0,0,40,possibly lost palochka,attested with palochka: кубчӏвну (7)
+normal,къаби,4,4,0,0,40,«къ» where «кь» is far more frequent,possibly ъ and ь confused; attested: кьаби (105)
+normal,къандиси,4,4,0,0,40,«къ» where «кь» is far more frequent,possibly ъ and ь confused; attested: кьандиси (58)
+normal,къялан,4,4,0,0,40,«къ» where «кь» is far more frequent,possibly ъ and ь confused; attested: кьялан (144)
+normal,кьуткьли,4,4,0,0,40,possibly lost palochka,attested with palochka: кьутӏкьли (8)
+normal,кьяляхъь,4,4,0,0,40,not merged (M4),"M4 two signs in a row: two attested readings: кьяляхъ (613), кьяляхь (145); repaired form would be кьяляхъ / кьяляхь"
+normal,кючёйиъ,4,0,4,0,40,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: кючейиъ (43)"
+normal,литературоведениейин,4,4,0,0,40,very long token,possibly glued words
+normal,мю,4,4,0,0,40,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,он,4,3,1,0,40,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,ргвк,4,4,0,0,40,no vowel,abbreviation or noise
+normal,рт,4,4,0,0,40,two-letter token outside the word lists; no vowel,"a fragment, an abbreviation or noise; abbreviation or noise"
+normal,русскомлабасаранском,4,4,0,0,40,very long token,possibly glued words
+normal,рякьюз,4,4,0,0,40,«кь» where «къ» is far more frequent,possibly ъ and ь confused; attested: рякъюз (46)
+normal,самолётар,4,4,0,0,40,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: самолетар (4)"
+normal,сесёр,4,0,4,0,40,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: сесер (71)"
+normal,то,4,3,1,0,40,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,тул,4,4,0,0,40,possibly lost palochka,attested with palochka: тӏул (8)
+normal,тумтӏар,4,4,0,0,40,possibly lost palochka,attested with palochka: тӏумтӏар (7)
+normal,тюфёнг,4,0,4,0,40,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: тюфенг (1)"
+normal,уи,4,4,0,0,40,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,уьмрихъна,4,4,0,0,40,«хъ» where «хь» is far more frequent,possibly ъ and ь confused; attested: уьмрихьна (41)
+normal,фужка,4,4,0,0,40,possibly lost palochka,attested with palochka: фужкӏа (61)
+normal,хьайигъан,4,4,0,0,40,«хь» where «хъ» is far more frequent,possibly ъ and ь confused; attested: хъайигъан (50)
+normal,хьъайи,4,4,0,0,40,not merged (M4),"M4 two signs in a row: two attested readings: хъайи (479), хьайи (208); repaired form would be хъайи / хьайи"
+normal,царнаъ,4,4,0,0,40,possibly lost palochka,attested with palochka: цӏарнаъ (7)
+normal,ци,4,4,0,0,40,possibly lost doubled consonant; two-letter token outside the word lists,"attested: цци (48); a fragment, an abbreviation or noise"
+normal,цийикӏулӏан,4,4,0,0,40,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,цщийи,4,4,0,0,40,not merged (M3),M3 «щ» for «цӏ»: repaired form is less frequent (3); repaired form would be ццӏийи
+normal,чагъан,4,4,0,0,40,possibly lost palochka,attested with palochka: чӏагъан (17)
+normal,чу,4,4,0,0,40,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,ччӏалнан,4,4,0,0,40,possibly extra doubled consonant,attested: чӏалнан (145)
+normal,шофёри,4,4,0,0,40,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: шофери (6)"
+normal,ый,4,4,0,0,40,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,ых,4,4,0,0,40,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,юн,4,3,1,0,40,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,ягъчвур,4,4,0,0,40,possibly lost palochka,attested with palochka: ягъчӏвур (18)
+normal,абййрин,3,0,3,0,30,not merged (D1),"D1 «й» for a stressed «и»: two attested readings: абиирин (6), абйирин (39); repaired form would be абиирин / абийрин / абйирин"
+normal,актёрари,3,3,0,0,30,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: актерари (6)"
+normal,актёрариз,3,3,0,0,30,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: актерариз (4)"
+normal,алабхьуйи,3,3,0,0,30,«хь» where «хъ» is far more frequent,possibly ъ and ь confused; attested: алабхъуйи (30)
+normal,апурза,3,3,0,0,30,possibly lost palochka,attested with palochka: апӏурза (38)
+normal,арфанййр,3,0,3,0,30,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be арфаниир / арфанийр / арфанйир"
+normal,ачни,3,3,0,0,30,possibly lost palochka,attested with palochka: ачӏни (16)
+normal,аыгью,3,3,0,0,30,possibly «аь» read as «аы»,attested: аьгью (390)
+normal,аӏинай,3,3,0,0,30,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,бегьём,3,0,3,0,30,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: бегьем (38)"
+normal,бегьёр,3,0,3,0,30,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: бегьер (40)"
+normal,бицци,3,3,0,0,30,possibly extra doubled consonant,attested: бици (79)
+normal,гарцлар,3,3,0,0,30,possibly lost palochka,attested with palochka: гарцӏлар (7)
+normal,гвачиндин,3,3,0,0,30,possibly lost palochka,attested with palochka: гвачӏиндин (13)
+normal,гъадабгьнийи,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъадабгънийи (44)
+normal,гъаӏнийи,3,3,0,0,30,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,гъеле,3,3,0,0,30,«гъ» where «гь» is far more frequent,possibly ъ and ь confused; attested: гьеле (279)
+normal,гъуллугъь,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: гъуллугъ (105), гъуллугь (21); repaired form would be гъуллугъ / гъуллугь"
+normal,гъьюру,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: гъюру (143), гьюру (64); repaired form would be гъюру / гьюру"
+normal,гъягьъюрайи,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: гъягъюрайи (28), гъягьюрайи (46); repaired form would be гъягъюрайи / гъягьюрайи"
+normal,гьабхьиш,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъабхьиш (64)
+normal,гьафиган,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъафиган (140)
+normal,гьахьнийи,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъахьнийи (573)
+normal,гьитну,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъитну (59)
+normal,гьубшну,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъубшну (79)
+normal,гьудубчвру,3,3,0,0,30,possibly lost palochka,attested with palochka: гьудубчӏвру (12)
+normal,гьъавриъ,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: гъавриъ (646), гьавриъ (10); repaired form would be гъавриъ / гьавриъ"
+normal,гьъагъиди,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: гъагъиди (88), гьагъиди (4); repaired form would be гъагъиди / гьагъиди"
+normal,гьъапнийи,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: гъапнийи (506), гьапнийи (31); repaired form would be гъапнийи / гьапнийи"
+normal,гьъашшу,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: гъашшу (49), гьашшу (15); repaired form would be гъашшу / гьашшу"
+normal,гьъира,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: гъира (161), гьира (7); repaired form would be гъира / гьира"
+normal,гью,3,3,0,0,30,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,дагьлар,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дагълар (36)
+normal,дагьларин,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дагъларин (53)
+normal,дадайихьди,3,3,0,0,30,«хь» where «хъ» is far more frequent,possibly ъ and ь confused; attested: дадайихъди (35)
+normal,дарапу,3,3,0,0,30,possibly lost palochka,attested with palochka: дарапӏу (70)
+normal,дибикна,3,3,0,0,30,possibly lost palochka,attested with palochka: дибикӏна (17)
+normal,дидикк,3,3,0,0,30,possibly extra doubled consonant,attested: дидик (43)
+normal,дугъъу,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: дугъу (2577), дугьу (58); repaired form would be дугъу / дугьу"
+normal,дяркьну,3,3,0,0,30,«кь» where «къ» is far more frequent,possibly ъ and ь confused; attested: дяркъну (41)
+normal,жя,3,3,0,0,30,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,зегьмёт,3,0,3,0,30,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: зегьмет (155)"
+normal,инсанарихьди,3,3,0,0,30,«хь» where «хъ» is far more frequent,possibly ъ and ь confused; attested: инсанарихъди (58)
+normal,ия,3,3,0,0,30,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,йигьан,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: йигъан (343)
+normal,йигьъ,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: йигъ (179), йигь (52); repaired form would be йигъ / йигь"
+normal,йисӏан,3,3,0,0,30,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,калбар,3,3,0,0,30,possibly lost palochka,attested with palochka: кӏалбар (17)
+normal,калбарин,3,3,0,0,30,possibly lost palochka,attested with palochka: кӏалбарин (7)
+normal,каму,3,3,0,0,30,possibly lost palochka,attested with palochka: кӏаму (6)
+normal,ке,3,3,0,0,30,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,ккергьбан,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: ккергъбан (38)
+normal,ккудубку,3,3,0,0,30,possibly lost palochka,attested with palochka: ккудубкӏу (56)
+normal,ккёбгъуб,3,0,3,0,30,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: ккебгъуб (15)"
+normal,культпросветучилищейин,3,3,0,0,30,very long token,possibly glued words
+normal,кучлин,3,3,0,0,30,possibly lost palochka,attested with palochka: кучӏлин (20)
+normal,къа,3,3,0,0,30,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,къабул,3,3,0,0,30,«къ» where «кь» is far more frequent,possibly ъ and ь confused; attested: кьабул (532)
+normal,кьа,3,3,0,0,30,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,кьяляхьна,3,3,0,0,30,«хь» where «хъ» is far more frequent,possibly ъ and ь confused; attested: кьяляхъна (31)
+normal,кючё,3,0,3,0,30,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: кюче (4)"
+normal,кёрхуб,3,0,3,0,30,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: керхуб (0)"
+normal,мучу,3,3,0,0,30,possibly lost palochka,attested with palochka: мучӏу (54)
+normal,мучушин,3,3,0,0,30,possibly lost palochka,attested with palochka: мучӏушин (7)
+normal,наъ,3,0,3,0,30,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,паӏимат,3,3,0,0,30,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,посёлокдиъ,3,3,0,0,30,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: поселокдиъ (4)"
+normal,противовоспалительным,3,3,0,0,30,very long token,possibly glued words
+normal,ржд,3,3,0,0,30,no vowel,abbreviation or noise
+normal,рякьюру,3,3,0,0,30,«кь» where «къ» is far more frequent,possibly ъ and ь confused; attested: рякъюру (39)
+normal,сагьвал,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: сагъвал (57)
+normal,саягьнан,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: саягънан (35)
+normal,стл,3,3,0,0,30,no vowel,abbreviation or noise
+normal,телерадиокомпанияйин,3,3,0,0,30,very long token,possibly glued words
+normal,тьа,3,3,0,0,30,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,убхьуз,3,3,0,0,30,«хь» where «хъ» is far more frequent,possibly ъ and ь confused; attested: убхъуз (30)
+normal,удубчвру,3,3,0,0,30,possibly lost palochka,attested with palochka: удубчӏвру (7)
+normal,уе,3,3,0,0,30,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,узхъан,3,2,1,0,30,«хъ» where «хь» is far more frequent,possibly ъ and ь confused; attested: узхьан (278)
+normal,урчвуд,3,3,0,0,30,possibly lost palochka,attested with palochka: урчӏвуд (6)
+normal,ухпӏамйиӏ,3,0,3,0,30,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,учвру,3,3,0,0,30,possibly lost palochka,attested with palochka: учӏвру (20)
+normal,учухьъди,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: учухъди (33), учухьди (19); repaired form would be учухъди / учухьди"
+normal,учӏ,3,3,0,0,30,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,уьлкё,3,0,3,0,30,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: уьлке (46)"
+normal,уягъь,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: уягъ (96), уягь (6); repaired form would be уягъ / уягь"
+normal,хаӏалу,3,3,0,0,30,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,хи,3,3,0,0,30,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,хизандихьди,3,3,0,0,30,«хь» where «хъ» is far more frequent,possibly ъ and ь confused; attested: хизандихъди (36)
+normal,хулаъь,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: хулаъ (452), хулаь (15); repaired form would be хулаъ / хулаь"
+normal,хутил,3,3,0,0,30,possibly lost palochka,attested with palochka: хутӏил (10)
+normal,хъапру,3,3,0,0,30,possibly lost palochka,attested with palochka: хъапӏру (5)
+normal,хъьа,3,3,0,0,30,two-letter token outside the word lists; not merged (M4),"a fragment, an abbreviation or noise; M4 two signs in a row: two attested readings: хъа (3648), хьа (258); repaired form would be хъа / хьа"
+normal,хъюгьну,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: хъюгъну (82)
+normal,хьайивал,3,3,0,0,30,«хь» where «хъ» is far more frequent,possibly ъ and ь confused; attested: хъайивал (66)
+normal,хьуркьувалар,3,3,0,0,30,«хь» where «хъ» is far more frequent,possibly ъ and ь confused; attested: хъуркьувалар (66)
+normal,хьъайигъан,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: хъайигъан (50), хьайигъан (4); repaired form would be хъайигъан / хьайигъан"
+normal,хьъана,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: хъана (277), хьана (8); repaired form would be хъана / хьана"
+normal,хьъасин,3,3,0,0,30,not merged (M4),"M4 two signs in a row: two attested readings: хъасин (695), хьасин (24); repaired form would be хъасин / хьасин"
+normal,цигъ,3,3,0,0,30,possibly lost palochka,attested with palochka: цӏигъ (8)
+normal,ццӏийи,3,3,0,0,30,possibly extra doubled consonant,attested: цӏийи (400)
+normal,цӏийикӏулӏан,3,3,0,0,30,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,чат,3,3,0,0,30,possibly lost palochka,attested with palochka: чӏат (10)
+normal,чвучвун,3,2,1,0,30,possibly lost doubled consonant,attested: чвуччвун (30)
+normal,чп,3,2,1,1,31,no vowel,abbreviation or noise
+normal,чюллёр,3,0,3,0,30,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: чюллер (5)"
+normal,чӏигьар,3,2,1,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: чӏигъар (46)
+normal,шартар,3,3,0,0,30,possibly lost palochka,attested with palochka: шартӏар (4)
+normal,шофёрин,3,2,1,0,30,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: шоферин (4)"
+normal,шюшййрин,3,0,3,0,30,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be шюшиирин / шюшийрин / шюшйирин"
+normal,шюшё,3,0,3,0,30,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: шюше (4)"
+normal,ьаму,3,3,0,0,30,"word starts with ь, ъ or ӏ",possibly OCR or a fragment
+normal,ягьлухъ,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: ягълухъ (39)
+normal,авазййр,2,0,2,0,20,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be авазиир / авазийр / авазйир"
+normal,алвёр,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: алвер (18)"
+normal,анӏура,2,0,2,0,20,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,арййр,2,0,2,0,20,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be ариир / арийр / арйир"
+normal,бегьёмди,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: бегьемди (46)"
+normal,гъелёмар,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: гъелемар (3)"
+normal,гъеёбхьнийи,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: гъеебхьнийи (16)"
+normal,гъеёрхьнийи,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: гъеерхьнийи (6)"
+normal,гьапӏуб,2,0,2,0,20,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъапӏуб (38)
+normal,гюрчёг,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: гюрчег (75)"
+normal,дердёр,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: дердер (24)"
+normal,дердёри,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: дердери (3)"
+normal,дёуб,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: деуб (15)"
+normal,жа,2,1,1,0,20,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,жюрёйин,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: жюрейин (63)"
+normal,йигьар,2,0,2,0,20,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: йигъар (64)
+normal,ккёргъну,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: ккергъну (5)"
+normal,кт,2,2,0,1,21,no vowel,abbreviation or noise
+normal,мектёб,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: мектеб (257)"
+normal,мектёбдиз,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: мектебдиз (129)"
+normal,мёгьел,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: мегьел (2)"
+normal,пешкёш,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: пешкеш (96)"
+normal,сн,2,1,1,0,20,two-letter token outside the word lists; no vowel,"a fragment, an abbreviation or noise; abbreviation or noise"
+normal,терёф,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: тереф (153)"
+normal,хилиь,2,1,1,0,20,not merged (M5),"M5 ь after a vowel other than а, у: source is in the dictionary examples; repaired form would be хилиъ"
+normal,чарар,2,1,1,0,20,possibly lost palochka,attested with palochka: чӏарар (15)
+normal,чихййр,2,0,2,0,20,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be чихиир / чихийр / чихйир"
+normal,эскёр,2,0,2,0,20,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: эскер (28)"
+normal,абъьну,1,0,1,0,10,not merged (M4),M4 two signs in a row: source is in the dictionary examples; repaired form would be абъну / абьну
+normal,авӏуб,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,акадёмияйин,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: академияйин (36)"
+normal,амййв,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be амиив / амийв / амйив"
+normal,анӏру,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,анӏурайидарин,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,ариьра,1,0,1,0,10,not merged (M5),"M5 ь after a vowel other than а, у: source is in the dictionary examples; repaired form would be ариъра"
+normal,арфанййрихъ,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be арфаниирихъ / арфанийрихъ / арфанйирихъ"
+normal,аыкьвлин,1,0,1,0,10,possibly «аь» read as «аы»,attested: аькьвлин (4)
+normal,аымлар,1,0,1,0,10,possibly «аь» read as «аы»,attested: аьмлар (12)
+normal,базариь,1,0,1,0,10,not merged (M5),"M5 ь after a vowel other than а, у: source is in the dictionary examples; repaired form would be базариъ"
+normal,бедёндиз,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: бедендиз (4)"
+normal,бендё,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: бенде (0)"
+normal,ботйнкййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be ботинкиир / ботинкййр / ботйнкийр / ботйнкйир"
+normal,бюзмййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be бюзмиир / бюзмийр / бюзмйир"
+normal,вабйьдин,1,0,1,0,10,not merged (D1),D1 «й» for a stressed «и»: repaired form still carries an artifact; repaired form would be вабиьдин
+normal,вн,1,0,1,0,10,two-letter token outside the word lists; no vowel,"a fragment, an abbreviation or noise; abbreviation or noise"
+normal,герёк,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: герек (29)"
+normal,гирванкййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be гирванкиир / гирванкийр / гирванкйир"
+normal,гулййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be гулиир / гулийр / гулйир"
+normal,гъабхъну,1,0,1,0,10,«хъ» where «хь» is far more frequent,possibly ъ and ь confused; attested: гъабхьну (692)
+normal,гъава,1,0,1,0,10,«гъ» where «гь» is far more frequent,possibly ъ and ь confused; attested: гьава (56)
+normal,гъадабгьуб,1,0,1,0,10,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъадабгъуб (65)
+normal,гъадагьуб,1,0,1,0,10,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъадагъуб (25)
+normal,гъазмййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be гъазмиир / гъазмийр / гъазмйир"
+normal,гъахъну,1,0,1,0,10,«хъ» where «хь» is far more frequent,possibly ъ and ь confused; attested: гъахьну (1505)
+normal,гъахьнййвуз,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be гъахьниивуз / гъахьнийвуз / гъахьнйивуз"
+normal,гъахьнййки,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be гъахьниики / гъахьнийки / гъахьнйики"
+normal,гъелём,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: гъелем (1)"
+normal,гъилӏу,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,гъурабййри,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be гъурабиири / гъурабийри / гъурабйири"
+normal,гъялнаъ,1,0,1,0,10,«гъ» where «гь» is far more frequent,possibly ъ and ь confused; attested: гьялнаъ (31)
+normal,гьабши,1,0,1,0,10,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъабши (27)
+normal,гьадагъну,1,0,1,0,10,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъадагъну (52)
+normal,гьайгъу,1,0,1,0,10,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъайгъу (43)
+normal,гьаригь,1,0,1,0,10,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гьаригъ (11)
+normal,гьафир,1,0,1,0,10,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъафир (25)
+normal,гьахьунзу,1,0,1,0,10,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъахьунзу (36)
+normal,гьендёмар,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: гьендемар (3)"
+normal,гьибтуб,1,0,1,0,10,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъибтуб (18)
+normal,гьуншййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be гьуншиир / гьуншийр / гьуншйир"
+normal,гьяд,1,0,1,0,10,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъяд (27)
+normal,гьядисййрип,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be гьядисиирип / гьядисийрип / гьядисйирип"
+normal,гьяфатар,1,0,1,0,10,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гъяфатар (10)
+normal,гьёргну,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: гьергну (23)"
+normal,гьёрхуб,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: гьерхуб (5)"
+normal,гьёрхуз,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: гьерхуз (10)"
+normal,гюллёси,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: гюллеси (3)"
+normal,даиӏнайи,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,дарсарйь,1,0,1,0,10,not merged (D1),D1 «й» for a stressed «и»: repaired form still carries an artifact; repaired form would be дарсариь
+normal,дережййриз,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be дережиириз / дережийриз / дережйириз"
+normal,дерёйиъ,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: дерейиъ (10)"
+normal,дестёйин,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: дестейин (12)"
+normal,дирёктори,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: директори (45)"
+normal,докумёнтарин,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: документарин (8)"
+normal,дугьак,1,0,1,0,10,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дугъак (68)
+normal,духъну,1,0,1,0,10,«хъ» where «хь» is far more frequent,possibly ъ and ь confused; attested: духьну (383)
+normal,дюгьнййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be дюгьниир / дюгьнийр / дюгьнйир"
+normal,дюзён,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: дюзен (4)"
+normal,дёвир,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: девир (21)"
+normal,дёври,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: деври (3)"
+normal,дёвриъ,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: девриъ (51)"
+normal,дёрккуб,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: дерккуб (4)"
+normal,дёу,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: деу (18)"
+normal,дёънайи,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: деънайи (70)"
+normal,дёънийи,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: деънийи (25)"
+normal,ебъьура,1,0,1,0,10,not merged (M4),M4 two signs in a row: source is in the dictionary examples; repaired form would be ебъура / ебьура
+normal,жафййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be жафиир / жафийр / жафйир"
+normal,женгчййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be женгчиир / женгчийр / женгчйир"
+normal,женнётдиъ,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: женнетдиъ (11)"
+normal,жергййрин,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be жергиирин / жергийрин / жергйирин"
+normal,жигъатнаан,1,0,1,0,10,«гъ» where «гь» is far more frequent,possibly ъ and ь confused; attested: жигьатнаан (126)
+normal,жюлёг,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: жюлег (7)"
+normal,зангййриъ,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be зангиириъ / зангийриъ / зангйириъ"
+normal,зизййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be зизиир / зизийр / зизйир"
+normal,зийнӏ,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,иииди,1,0,1,0,10,same letter three times,"abbreviation, interjection or noise"
+normal,инсанвалиииди,1,0,1,0,10,same letter three times,"abbreviation, interjection or noise"
+normal,инчййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be инчиир / инчийр / инчйир"
+normal,инӏур,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,ихъ,1,0,1,0,10,«хъ» where «хь» is far more frequent; two-letter token outside the word lists,"possibly ъ and ь confused; attested: ихь (1157); a fragment, an abbreviation or noise"
+normal,йввву,1,0,1,0,10,same letter three times,"abbreviation, interjection or noise"
+normal,йихъ,1,0,1,0,10,«хъ» where «хь» is far more frequent,possibly ъ and ь confused; attested: йихь (61)
+normal,йиъ,1,0,1,0,10,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,йлмвн,1,0,1,0,10,no vowel,abbreviation or noise
+normal,йр,1,0,1,1,11,no vowel,abbreviation or noise
+normal,катбӏуб,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,ккаданӏуб,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,ккадатуб,1,0,1,0,10,possibly lost palochka,attested with palochka: ккадатӏуб (2)
+normal,ккёбгъну,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: ккебгъну (49)"
+normal,ккёбгъру,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: ккебгъру (28)"
+normal,ккёбехънайи,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: ккебехънайи (14)"
+normal,ккёбкну,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: ккебкну (2)"
+normal,консёрвйир,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: консервйир (10)"
+normal,конькййр,1,0,1,1,11,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be конькиир / конькийр / конькйир"
+normal,ктабтуб,1,0,1,0,10,possibly lost palochka,attested with palochka: ктабтӏуб (2)
+normal,ктитуб,1,0,1,0,10,possibly lost palochka,attested with palochka: ктитӏуб (1)
+normal,къялхъян,1,0,1,0,10,«къ» where «кь» is far more frequent,possibly ъ and ь confused; attested: кьялхъян (16)
+normal,кьяртӏанӏуб,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,кюгьнё,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: кюгьне (219)"
+normal,кюкййриан,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be кюкиириан / кюкийриан / кюкйириан"
+normal,кюкййриз,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be кюкиириз / кюкийриз / кюкйириз"
+normal,кюрпё,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: кюрпе (1)"
+normal,кюрён,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: кюрен (1)"
+normal,кючёйин,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: кючейин (6)"
+normal,кючёри,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: кючери (0)"
+normal,кёбхна,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: кебхна (4)"
+normal,кёбхуб,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: кебхуб (2)"
+normal,кёуб,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: кеуб (0)"
+normal,кӏвариц,1,0,1,0,10,possibly lost palochka,attested with palochka: кӏварицӏ (1)
+normal,легниь,1,0,1,0,10,not merged (M5),"M5 ь after a vowel other than а, у: source is in the dictionary examples; repaired form would be легниъ"
+normal,лепё,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: лепе (17)"
+normal,мектёбдиан,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: мектебдиан (17)"
+normal,мектёбдин,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: мектебдин (189)"
+normal,мектёбдиъ,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: мектебдиъ (346)"
+normal,мензерё,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: мензере (0)"
+normal,мййгъари,1,0,1,1,11,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be миигъари / мийгъари / мйигъари"
+normal,муӏъур,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,муӏъурур,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,нефёс,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: нефес (28)"
+normal,падёж,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: падеж (2)"
+normal,пенжёк,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: пенжек (2)"
+normal,пердййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be пердиир / пердийр / пердйир"
+normal,перййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be периир / перийр / перйир"
+normal,пионёрарин,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: пионерарин (9)"
+normal,ппулихъ,1,0,1,0,10,possibly extra doubled consonant,attested: пулихъ (32)
+normal,пршшшш,1,0,1,0,10,no vowel; same letter three times,"abbreviation or noise; abbreviation, interjection or noise"
+normal,прёмияйин,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: премияйин (18)"
+normal,пёи,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: пеи (0)"
+normal,пёкдин,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: пекдин (1)"
+normal,раъ,1,0,1,0,10,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,рукар-кюлёр,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: рукар-кюлер (1)"
+normal,семён,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: семен (5)"
+normal,совётарин,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: советарин (47)"
+normal,ссср-йн,1,0,1,0,10,no vowel; same letter three times,"abbreviation or noise; abbreviation, interjection or noise"
+normal,сундхйь,1,0,1,0,10,not merged (D1),D1 «й» for a stressed «и»: repaired form still carries an artifact; repaired form would be сундхиь
+normal,сюзёг,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: сюзег (1)"
+normal,тегьёр,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: тегьер (0)"
+normal,терёфар,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: терефар (13)"
+normal,точкййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be точкиир / точкийр / точкйир"
+normal,турбййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be турбиир / турбийр / турбйир"
+normal,тёвбан,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: тевбан (3)"
+normal,улихъдин,1,0,1,0,10,«хъ» where «хь» is far more frequent,possibly ъ and ь confused; attested: улихьдин (17)
+normal,улӏвубгуб,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,уьлкёйин,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: уьлкейин (107)"
+normal,уьлчмёйиинди,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: уьлчмейиинди (4)"
+normal,уьчӏ,1,0,1,0,10,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,харабййр,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be харабиир / харабийр / харабйир"
+normal,хаханщ,1,0,1,1,11,not merged (M3),M3 «щ» for «цӏ»: source is in a word list; repaired form would be хаханцӏ
+normal,хъаъ,1,0,1,0,10,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+normal,хътипунза,1,0,1,0,10,possibly lost palochka,attested with palochka: хътипӏунза (1)
+normal,хъч,1,1,0,1,11,no vowel,abbreviation or noise
+normal,хъёргуб,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: хъергуб (1)"
+normal,хъёуб,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: хъеуб (0)"
+normal,челёг,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: челег (2)"
+normal,чюллёриъ,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: чюллериъ (5)"
+normal,чӏерййриккан,1,0,1,0,10,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be чӏериириккан / чӏерийриккан / чӏерйириккан"
+normal,чӏук,1,0,1,0,10,possibly lost palochka,attested with palochka: чӏукӏ (3)
+normal,шв,1,1,0,1,11,no vowel,abbreviation or noise
+normal,шекёр,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: шекер (8)"
+normal,ьарар,1,0,1,0,10,"word starts with ь, ъ or ӏ",possibly OCR or a fragment
+normal,эзбёр,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: эзбер (4)"
+normal,элёуб,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: элеуб (1)"
+normal,эсёрарин,1,0,1,0,10,ё where the same word is attested with е,"a stressed е of the dictionary read as ё, or a Russian ё: эсерарин (36)"
+normal,яйӏаъ,1,0,1,0,10,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,ялгьузвалиъ,1,0,1,0,10,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: ялгъузвалиъ (10)
+normal,ялхъвнйь,1,0,1,0,10,not merged (D1),D1 «й» for a stressed «и»: repaired form still carries an artifact; repaired form would be ялхъвниь
+normal,ӏарикан,1,0,1,0,10,"palochka after a letter other than к п т ц ч; word starts with ь, ъ or ӏ","Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling; possibly OCR or a fragment"
+normal,ӏнакан,1,0,1,0,10,"palochka after a letter other than к п т ц ч; word starts with ь, ъ or ӏ","Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling; possibly OCR or a fragment"
+normal,ӏуб,1,0,1,0,10,"palochka after a letter other than к п т ц ч; two-letter token outside the word lists; word starts with ь, ъ or ӏ","Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling; a fragment, an abbreviation or noise; possibly OCR or a fragment"
+normal,а-мук,0,0,0,1,1,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,абййр-бабар,0,0,0,1,1,not merged (D1),"D1 «й» for a stressed «и»: two attested readings: абиир-бабар (7), абйир-бабар (132); repaired form would be абиир-бабар / абийр-бабар / абйир-бабар"
+normal,акьа-п,0,0,0,1,1,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,ан-к,0,0,0,1,1,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,аьгыьвал,0,0,0,1,1,not merged (M5),"M5 ь after a vowel other than а, у: source is in a word list; repaired form would be аьгыъвал"
+normal,багагӏв,0,0,0,1,1,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,бт,0,0,0,1,1,no vowel,abbreviation or noise
+normal,вц,0,0,0,1,1,no vowel,abbreviation or noise
+normal,гакгул,0,0,0,1,1,not merged (M2),M2 «й» or «г» for ӏ after к п т ц ч: source is in a word list; repaired form would be гакӏул
+normal,гаф-ч,0,0,0,1,1,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,гуржййр,0,0,0,1,1,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be гуржиир / гуржийр / гуржйир"
+normal,гъаӏн,0,0,0,1,1,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,гън,0,0,0,1,1,no vowel,abbreviation or noise
+normal,гъушкънар-ч,0,0,0,1,1,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,гьт,0,0,0,1,1,no vowel,abbreviation or noise
+normal,гӏвакӏ,0,0,0,1,1,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,дих-дихӏ,0,0,0,1,1,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,и-адрув,0,0,0,1,1,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,и-бабар,0,0,0,1,1,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,и-ц,0,0,0,1,1,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,йбт,0,0,0,1,1,no vowel,abbreviation or noise
+normal,йл,0,0,0,1,1,no vowel,abbreviation or noise
+normal,йм,0,0,0,1,1,no vowel,abbreviation or noise
+normal,йс,0,0,0,1,1,no vowel,abbreviation or noise
+normal,йск,0,0,0,1,1,no vowel,abbreviation or noise
+normal,йт,0,0,0,1,1,no vowel,abbreviation or noise
+normal,йф,0,0,0,1,1,no vowel,abbreviation or noise
+normal,йш,0,0,0,1,1,no vowel,abbreviation or noise
+normal,килййр,0,0,0,1,1,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be килиир / килийр / килйир"
+normal,кп,0,0,0,1,1,no vowel,abbreviation or noise
+normal,кч,0,0,0,1,1,no vowel,abbreviation or noise
+normal,къйб,0,0,0,1,1,no vowel,abbreviation or noise
+normal,кън,0,0,0,1,1,no vowel,abbreviation or noise
+normal,лезгййр,0,0,0,1,1,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be лезгиир / лезгийр / лезгйир"
+normal,ликар-к,0,0,0,1,1,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,мн,0,0,0,1,1,no vowel,abbreviation or noise
+normal,сечкййр,0,0,0,1,1,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be сечкиир / сечкийр / сечкйир"
+normal,синтарййр,0,0,0,1,1,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be синтариир / синтарийр / синтарйир"
+normal,сумчгур,0,0,0,1,1,not merged (M2),M2 «й» or «г» for ӏ after к п т ц ч: source is in a word list; repaired form would be сумчӏур
+normal,тб,0,0,0,1,1,no vowel,abbreviation or noise
+normal,тк,0,0,0,1,1,no vowel,abbreviation or noise
+normal,уьгьӏяр,0,0,0,1,1,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+normal,хт,0,0,0,1,1,no vowel,abbreviation or noise
+normal,хъатяькьюв,0,0,0,1,1,not merged (M5),"M5 ь after a vowel other than а, у: source is in a word list; repaired form would be хъатяъкьюв"
+normal,хъйб,0,0,0,1,1,no vowel,abbreviation or noise
+normal,хъйбт,0,0,0,1,1,no vowel,abbreviation or noise
+normal,хъйп,0,0,0,1,1,no vowel,abbreviation or noise
+normal,хъйт,0,0,0,1,1,no vowel,abbreviation or noise
+normal,хът,0,0,0,1,1,no vowel,abbreviation or noise
+normal,хътибтгуб,0,0,0,1,1,not merged (M2),M2 «й» or «г» for ӏ after к п т ц ч: source is in a word list; repaired form would be хътибтӏуб
+normal,хътшбк,0,0,0,1,1,no vowel,abbreviation or noise
+normal,хъц,0,0,0,1,1,no vowel,abbreviation or noise
+normal,ццурййр,0,0,0,1,1,not merged (D1),"D1 «й» for a stressed «и»: «йй»: either one could be the stressed и, no reading is attested; repaired form would be ццуриир / ццурийр / ццурйир"
+normal,шк,0,0,0,1,1,no vowel,abbreviation or noise
+normal,шярияьт,0,0,0,1,1,not merged (M5),"M5 ь after a vowel other than а, у: source is in a word list; repaired form would be шярияът"
+normal,щуб,0,0,0,1,1,not merged (M3),M3 «щ» for «цӏ»: source is in a word list; repaired form would be цӏуб
+normal,ъ-шюъ,0,0,0,1,1,"hyphen part shorter than 2 letters; word starts with ь, ъ or ӏ",abbreviation or broken hyphenation; possibly OCR or a fragment
+normal,ъур,0,0,0,1,1,"word starts with ь, ъ or ӏ",possibly OCR or a fragment
+normal,эргӏал,0,0,0,1,1,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"

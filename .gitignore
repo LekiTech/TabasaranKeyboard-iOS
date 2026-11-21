@@ -1,0 +1,23 @@
+# Xcode
+*.xcuserstate
+*.xcbkptlist
+xcuserdata/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager (the test package's build products)
+.build/
+.swiftpm/
+Package.resolved
+
+# Python
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Local Claude Code settings
+.claude/settings.local.json

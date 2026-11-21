@@ -1,0 +1,253 @@
+{
+ "input": {
+  "archive": "keyboard_data_v0.zip / keyboard_data/",
+  "files": {
+   "tab_words.sqlite": "ffd07f867f0b4d648bfa9ceeb1fcbd623fa98c55e82ceb6860cbecafa52fd76e",
+   "tab_bigrams.sqlite": "53951eca3a158b0624cf6681ea208ad7b125b8d35d446c9fe616f5ffb137c035",
+   "tab_words.tsv": "52dbd8bddaa1a63770c86ce2efc17331f1fd0b57e5668ba82ed711b2c377e357",
+   "tab_bigrams.tsv": "43d05e8b068354150a562b6f6c4ded18aa7086573c0e59a871c04131472b31cb",
+   "tab_stats.json": "d2b6877ab44d7475d72d200adac18a6d1260b88720a39dea32382ca4e9802d9b"
+  },
+  "v0_generated_at": "2026-10-11T17:02:25+00:00",
+  "v0_sources": {
+   "zhd_ocr_tabas": {
+    "kind": "ocr",
+    "sentences": 51692,
+    "tokens": 486909,
+    "dropped_russian": 8462,
+    "dup": 6650
+   },
+   "hanmagomedov_examples": {
+    "kind": "clean",
+    "sentences": 6782,
+    "tokens": 17599,
+    "dropped_russian": 0,
+    "dup": 178
+   },
+   "hanmagomedov_headwords": {
+    "kind": "lexicon",
+    "words": 8866
+   },
+   "ids": {
+    "kind": "lexicon",
+    "words": 2713
+   }
+  }
+ },
+ "audit": {
+  "words": 29693,
+  "bigrams": 38785,
+  "character_inventory": {
+   "а U+0430": 31099,
+   "и U+0438": 23480,
+   "р U+0440": 16013,
+   "у U+0443": 15098,
+   "н U+043D": 13011,
+   "д U+0434": 9437,
+   "л U+043B": 9265,
+   "г U+0433": 9180,
+   "к U+043A": 8904,
+   "ъ U+044A": 7616,
+   "й U+0439": 7535,
+   "б U+0431": 7424,
+   "ь U+044C": 6765,
+   "т U+0442": 6739,
+   "в U+0432": 6532,
+   "х U+0445": 5789,
+   "е U+0435": 5064,
+   "м U+043C": 4782,
+   "з U+0437": 4747,
+   "с U+0441": 4620,
+   "ш U+0448": 3801,
+   "я U+044F": 3330,
+   "ч U+0447": 2814,
+   "ӏ U+04CF": 2347,
+   "п U+043F": 2137,
+   "ю U+044E": 2115,
+   "о U+043E": 2048,
+   "ж U+0436": 1746,
+   "ц U+0446": 1277,
+   "ф U+0444": 1265,
+   "- U+002D": 504,
+   "э U+044D": 370,
+   "ё U+0451": 200,
+   "щ U+0449": 146,
+   "ы U+044B": 135
+  },
+  "palochka_after": {
+   "к": 614,
+   "т": 574,
+   "ч": 549,
+   "ц": 336,
+   "п": 205,
+   "а": 16,
+   "ӏ": 14,
+   "н": 7,
+   "щ": 6,
+   "и": 4,
+   "л": 4,
+   "у": 4,
+   "^": 3,
+   "г": 3,
+   "в": 2,
+   "й": 2,
+   "б": 1,
+   "с": 1,
+   "х": 1,
+   "ь": 1
+  },
+  "not_nfc": [],
+  "not_lowercase": [],
+  "not_canonical": [],
+  "canonical_collisions": [],
+  "contract_invalid": [],
+  "outside_alphabet": [],
+  "latin_letters": [],
+  "visible_palochka_u04c0": [],
+  "replacement_or_control_chars": [],
+  "hyphenated": 499,
+  "with_palochka": 2166,
+  "score_formula_mismatch": [],
+  "count_mismatch": [],
+  "source_mix": {
+   "ocr": 13575,
+   "word list": 5988,
+   "clean examples": 3323,
+   "clean examples + ocr": 1996,
+   "word list + ocr": 1766,
+   "word list + clean examples + ocr": 1694,
+   "word list + clean examples": 1351
+  },
+  "in_word_lists": 10799,
+  "word_lists_only": 5988,
+  "ocr_only": 13575,
+  "ocr_only_count_3_or_4": 5818,
+  "corpus_tokens": {
+   "ocr": 417136,
+   "clean_examples": 17599
+  },
+  "bigram_orphans": 0,
+  "bigram_weight_below_2": 0,
+  "bigram_self_pairs": [
+   "ав ав",
+   "аьв аьв",
+   "биш биш",
+   "ва ва",
+   "вари вари",
+   "ваъ ваъ",
+   "вуйи вуйи",
+   "гъач гъач",
+   "ду-ду-ду ду-ду-ду",
+   "думу думу",
+   "жвув жвув",
+   "йигъан йигъан",
+   "кьил кьил",
+   "лихуб лихуб",
+   "мектеб мектеб",
+   "пи пи",
+   "узу узу",
+   "урхуб урхуб",
+   "ухьу ухьу",
+   "хилар хилар"
+  ]
+ },
+ "merges": {
+  "total": 2293,
+  "merged_into_an_attested_row": 994,
+  "respelled": 1299,
+  "by_rule": {
+   "D1 «й» for a stressed «и»": 2081,
+   "M1 doubled palochka": 14,
+   "M2 «й» or «г» for ӏ after к п т ц ч": 54,
+   "M3 «щ» for «цӏ»": 46,
+   "M5 ь after a vowel other than а, у": 10,
+   "M6 «аш» for «апӏ» (forms of апӏуб)": 88
+  },
+  "merged_by_rule": {
+   "D1 «й» for a stressed «и»": 783,
+   "M1 doubled palochka": 14,
+   "M2 «й» or «г» for ӏ after к п т ц ч": 54,
+   "M3 «щ» for «цӏ»": 46,
+   "M5 ь after a vowel other than а, у": 10,
+   "M6 «аш» for «апӏ» (forms of апӏуб)": 87
+  },
+  "respelled_by_rule": {
+   "D1 «й» for a stressed «и»": 1298,
+   "M6 «аш» for «апӏ» (forms of апӏуб)": 1
+  },
+  "tokens_by_rule": {
+   "D1 «й» for a stressed «и»": 2161,
+   "M1 doubled palochka": 59,
+   "M2 «й» or «г» for ӏ after к п т ц ч": 374,
+   "M3 «щ» for «цӏ»": 487,
+   "M5 ь after a vowel other than а, у": 43,
+   "M6 «аш» for «апӏ» (forms of апӏуб)": 7615
+  },
+  "targets": 2262,
+  "chained": 2,
+  "tokens_moved": 10739,
+  "not_merged": 105,
+  "not_merged_by_rule": {
+   "D1 «й» for a stressed «и»": 47,
+   "M2 «й» or «г» for ӏ after к п т ц ч": 3,
+   "M3 «щ» for «цӏ»": 6,
+   "M4 two signs in a row": 42,
+   "M5 ь after a vowel other than а, у": 7
+  }
+ },
+ "removed": 0,
+ "flags": {
+  "words": 683,
+  "high_priority": 58,
+  "by_category": {
+   "possibly lost palochka": 146,
+   "ё where the same word is attested with е": 111,
+   "«гь» where «гъ» is far more frequent": 78,
+   "two-letter token outside the word lists": 77,
+   "no vowel": 52,
+   "palochka after a letter other than к п т ц ч": 49,
+   "not merged (D1)": 47,
+   "not merged (M4)": 42,
+   "hyphen part shorter than 2 letters": 15,
+   "«хъ» where «хь» is far more frequent": 13,
+   "possibly extra doubled consonant": 12,
+   "«хь» where «хъ» is far more frequent": 12,
+   "not merged (M5)": 7,
+   "same letter three times": 7,
+   "word starts with ь, ъ or ӏ": 7,
+   "not merged (M3)": 6,
+   "very long token": 6,
+   "possibly «аь» read as «аы»": 5,
+   "«къ» where «кь» is far more frequent": 5,
+   "«гъ» where «гь» is far more frequent": 4,
+   "not merged (M2)": 3,
+   "possibly «пӏ» read as «ш»": 3,
+   "«кь» where «къ» is far more frequent": 3,
+   "possibly lost doubled consonant": 2
+  },
+  "high_priority_by_category": {
+   "possibly lost palochka": 39,
+   "two-letter token outside the word lists": 9,
+   "«гь» where «гъ» is far more frequent": 3,
+   "no vowel": 2,
+   "palochka after a letter other than к п т ц ч": 2,
+   "possibly extra doubled consonant": 2,
+   "hyphen part shorter than 2 letters": 1,
+   "not merged (M4)": 1,
+   "possibly «пӏ» read as «ш»": 1,
+   "same letter three times": 1,
+   "«хь» where «хъ» is far more frequent": 1
+  }
+ },
+ "output": {
+  "words": 28698,
+  "bigrams": 38479,
+  "bigram_pairs_remapped": 1846,
+  "bigram_pairs_combined": 306,
+  "words_unchanged_from_v0": 26486,
+  "corpus_tokens_kept": 434735,
+  "corpus_tokens_v0": 434735,
+  "bigram_weight_total": 152553,
+  "bigram_weight_total_v0": 152553
+ }
+}

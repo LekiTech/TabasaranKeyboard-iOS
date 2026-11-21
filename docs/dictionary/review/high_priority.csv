@@ -1,0 +1,59 @@
+priority,word,count,ocr_count,clean_count,word_lists,base_score,categories,notes
+high,пи,1199,1199,0,0,11990,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+high,кваин,338,338,0,0,3380,possibly lost palochka,attested with palochka: кӏваин (427)
+high,апуз,196,196,0,0,1960,possibly lost palochka,attested with palochka: апӏуз (1367)
+high,кури,194,194,0,0,1940,possibly lost palochka,attested with palochka: кӏури (484)
+high,гъапну,182,181,1,0,1820,possibly lost palochka,attested with palochka: гъапӏну (501)
+high,цийи,157,157,0,0,1570,possibly lost palochka,attested with palochka: цӏийи (400)
+high,кул,108,108,0,0,1080,possibly lost palochka,attested with palochka: кӏул (301)
+high,сатиди,105,105,0,0,1050,possibly lost palochka,attested with palochka: сатӏиди (128)
+high,аьгь,103,103,0,0,1030,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+high,юкв,100,100,0,0,1000,possibly lost palochka,attested with palochka: юкӏв (334)
+high,кваъ,80,80,0,0,800,possibly lost palochka,attested with palochka: кӏваъ (177)
+high,бици,79,79,0,0,790,possibly lost palochka,attested with palochka: бицӏи (335)
+high,апуб,75,74,1,0,750,possibly lost palochka,attested with palochka: апӏуб (790)
+high,кваълан,74,74,0,0,740,possibly lost palochka,attested with palochka: кӏваълан (85)
+high,апбан,73,73,0,0,730,possibly lost palochka,attested with palochka: апӏбан (349)
+high,дугьу,58,56,2,0,580,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дугъу (2577)
+high,апру,56,56,0,0,560,possibly lost palochka,attested with palochka: апӏру (359)
+high,бицир,56,56,0,0,560,possibly lost palochka,attested with palochka: бицӏир (296)
+high,го,56,56,0,0,560,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+high,талаб,55,55,0,0,550,possibly lost palochka,attested with palochka: тӏалаб (114)
+high,циб,55,55,0,0,550,possibly lost palochka,attested with palochka: цӏиб (222)
+high,багьри,54,54,0,0,540,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: багъри (540)
+high,е-тай,50,50,0,0,500,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+high,ссср-ин,50,50,0,0,500,same letter three times,"abbreviation, interjection or noise"
+high,сати,48,48,0,0,480,possibly lost palochka,attested with palochka: сатӏи (77)
+high,кули,47,47,0,0,470,possibly lost palochka,attested with palochka: кӏули (141)
+high,апури,46,46,0,0,460,possibly lost palochka,attested with palochka: апӏури (652)
+high,ишруб,46,46,0,0,460,possibly «пӏ» read as «ш»,OCR-only; the «пӏ» form is attested: ипӏруб (1)
+high,хх,45,45,0,0,450,two-letter token outside the word lists; no vowel,"a fragment, an abbreviation or noise; abbreviation or noise"
+high,саӏиди,44,44,0,0,440,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+high,удучвну,44,44,0,0,440,possibly lost palochka,attested with palochka: удучӏвну (157)
+high,кван,43,43,0,0,430,possibly lost palochka,attested with palochka: кӏван (66)
+high,ца,40,40,0,0,400,possibly lost palochka; two-letter token outside the word lists,"attested with palochka: цӏа (61); a fragment, an abbreviation or noise"
+high,чаъ,40,40,0,0,400,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+high,апура,37,37,0,0,370,possibly lost palochka,attested with palochka: апӏура (412)
+high,бицидариз,35,35,0,0,350,possibly lost palochka,attested with palochka: бицӏидариз (203)
+high,хьъа,35,35,0,0,350,two-letter token outside the word lists; not merged (M4),"a fragment, an abbreviation or noise; M4 two signs in a row: two attested readings: хъа (3648), хьа (258); repaired form would be хъа / хьа"
+high,ккваин,33,33,0,0,330,possibly extra doubled consonant,attested: кваин (338)
+high,гьапнийи,31,31,0,0,310,possibly lost palochka; «гь» where «гъ» is far more frequent,attested with palochka: гьапӏнийи (227); possibly ъ and ь confused; attested: гъапнийи (506)
+high,апин,29,29,0,0,290,possibly lost palochka,attested with palochka: апӏин (142)
+high,апуйи,28,28,0,0,280,possibly lost palochka,attested with palochka: апӏуйи (355)
+high,чур,28,28,0,0,280,possibly lost palochka,attested with palochka: чӏур (81)
+high,гаф-чал,26,26,0,0,260,possibly lost palochka,attested with palochka: гаф-чӏал (115)
+high,йн,26,0,26,1,261,no vowel,abbreviation or noise
+high,чалниинди,26,26,0,0,260,possibly lost palochka,attested with palochka: чӏалниинди (176)
+high,айтан,25,25,0,0,250,possibly lost palochka,attested with palochka: айтӏан (36)
+high,цар,25,25,0,0,250,possibly lost palochka,attested with palochka: цӏар (32)
+high,хьасин,24,24,0,0,240,«хь» where «хъ» is far more frequent,possibly ъ and ь confused; attested: хъасин (695)
+high,ккади,23,23,0,0,230,possibly extra doubled consonant,attested: кади (239)
+high,апурайи,22,22,0,0,220,possibly lost palochka,attested with palochka: апӏурайи (289)
+high,кваз,22,22,0,0,220,possibly lost palochka,attested with palochka: кӏваз (102)
+high,ги,21,21,0,0,210,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+high,зу,21,21,0,0,210,two-letter token outside the word lists,"a fragment, an abbreviation or noise"
+high,ухдитан,21,21,0,0,210,possibly lost palochka,attested with palochka: ухдитӏан (26)
+high,чал,21,21,0,0,210,possibly lost palochka,attested with palochka: чӏал (277)
+high,аӏуз,20,20,0,0,200,palochka after a letter other than к п т ц ч,"Tabasaran writes ӏ only in кӏ пӏ тӏ цӏ чӏ: OCR (a lost consonant, a misread letter) or an old spelling"
+high,гвачнин,20,20,0,0,200,possibly lost palochka,attested with palochka: гвачӏнин (29)
+high,учру,20,20,0,0,200,possibly lost palochka,attested with palochka: учӏру (59)

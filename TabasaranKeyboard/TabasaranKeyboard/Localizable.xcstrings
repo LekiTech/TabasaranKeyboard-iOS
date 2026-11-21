@@ -1,0 +1,486 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "About 28,700 Tabasaran words and 38,500 word pairs, fully offline" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About 28,700 Tabasaran words and 38,500 word pairs, fully offline"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Около 28 700 табасаранских слов и 38 500 пар слов, полностью офлайн"
+          }
+        }
+      }
+    },
+    "Developed by LekiTech" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Developed by LekiTech"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разработано LekiTech"
+          }
+        }
+      }
+    },
+    "Dictionary" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dictionary"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Словарь"
+          }
+        }
+      }
+    },
+    "Every one of them can also be typed key by key: г, then ъ; к, then Ӏ. Doubled letters (кк, чч) and жв, чв, шв are typed as two letters." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every one of them can also be typed key by key: г, then ъ; к, then Ӏ. Doubled letters (кк, чч) and жв, чв, шв are typed as two letters."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Любую из них можно набрать и по буквам: г, затем ъ; к, затем Ӏ. Удвоенные буквы (кк, чч) и жв, чв, шв набираются двумя буквами."
+          }
+        }
+      }
+    },
+    "Feels native" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feels native"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как системная"
+          }
+        }
+      }
+    },
+    "Full Tabasaran alphabet" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full Tabasaran alphabet"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Полный табасаранский алфавит"
+          }
+        }
+      }
+    },
+    "Hold a key to see more letters, then slide to the one you need." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold a key to see more letters, then slide to the one you need."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удерживайте клавишу, чтобы увидеть другие буквы, и проведите пальцем к нужной."
+          }
+        }
+      }
+    },
+    "How to install" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How to install"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как установить"
+          }
+        }
+      }
+    },
+    "It is drawn from scanned issues of a Tabasaran magazine and from a Tabasaran–Russian dictionary. Scanning errors were corrected where the evidence was clear, and the dictionary is still being reviewed: suggestions may contain misspellings." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It is drawn from scanned issues of a Tabasaran magazine and from a Tabasaran–Russian dictionary. Scanning errors were corrected where the evidence was clear, and the dictionary is still being reviewed: suggestions may contain misspellings."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Он собран по отсканированным номерам табасаранского журнала и по табасаранско-русскому словарю. Ошибки распознавания исправлены там, где это однозначно, и словарь ещё проходит проверку: в подсказках могут встречаться ошибки написания."
+          }
+        }
+      }
+    },
+    "Keyboard settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keyboard settings"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки клавиатуры"
+          }
+        }
+      }
+    },
+    "Layout" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Layout"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Раскладка"
+          }
+        }
+      }
+    },
+    "Long press" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Long press"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Долгое нажатие"
+          }
+        }
+      }
+    },
+    "Matches the iOS keyboard down to the details, in light and dark mode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matches the iOS keyboard down to the details, in light and dark mode"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повторяет клавиатуру iOS до мелочей — в светлой и тёмной теме"
+          }
+        }
+      }
+    },
+    "Never asks for Full Access and sends nothing anywhere — word learning stays on this device and can be reset from the keyboard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Never asks for Full Access and sends nothing anywhere — word learning stays on this device and can be reset from the keyboard"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не требует полного доступа и ничего никуда не отправляет — выученные слова остаются на этом устройстве, их можно удалить в настройках клавиатуры"
+          }
+        }
+      }
+    },
+    "Open Settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Settings"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть Настройки"
+          }
+        }
+      }
+    },
+    "Private by design" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Private by design"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приватная по умолчанию"
+          }
+        }
+      }
+    },
+    "Switch languages using the 🌐 key on the keyboard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Switch languages using the 🌐 key on the keyboard"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Для переключения между языками нажимайте кнопку 🌐 на клавиатуре"
+          }
+        }
+      }
+    },
+    "Tabasaran Keyboard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tabasaran Keyboard"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Табасаранская клавиатура"
+          }
+        }
+      }
+    },
+    "Tap **Keyboards**" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap **Keyboards**"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите **Клавиатуры**"
+          }
+        }
+      }
+    },
+    "Tap **Open Settings** below" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap **Open Settings** below"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажмите **«Открыть Настройки»** ниже"
+          }
+        }
+      }
+    },
+    "Tap the ⚙︎ key on the keyboard to change word suggestions, next-word suggestions, learning speed, the long-press delay and the theme. Settings are saved on this device." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap the ⚙︎ key on the keyboard to change word suggestions, next-word suggestions, learning speed, the long-press delay and the theme. Settings are saved on this device."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажмите клавишу ⚙︎ на клавиатуре, чтобы настроить подсказки слов, подсказку следующего слова, скорость обучения, задержку долгого нажатия и тему. Настройки сохраняются на этом устройстве."
+          }
+        }
+      }
+    },
+    "The Russian layout with two changes: the hard sign (ъ) and the palochka (Ӏ) have their own keys, where щ and ы are on the Russian keyboard." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Russian layout with two changes: the hard sign (ъ) and the palochka (Ӏ) have their own keys, where щ and ы are on the Russian keyboard."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Русская раскладка с двумя отличиями: твёрдый знак (ъ) и палочка (Ӏ) — на отдельных клавишах, там, где на русской клавиатуре щ и ы."
+          }
+        }
+      }
+    },
+    "The apostrophe of words like дюн’я is under ъ." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The apostrophe of words like дюн’я is under ъ."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Апостроф для слов вроде дюн’я — долгое нажатие на ъ."
+          }
+        }
+      }
+    },
+    "The built-in dictionary has about 28,700 Tabasaran words and 38,500 word pairs. It works offline and is the same for everyone; your own words are kept separately." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The built-in dictionary has about 28,700 Tabasaran words and 38,500 word pairs. It works offline and is the same for everyone; your own words are kept separately."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Во встроенном словаре около 28 700 табасаранских слов и 38 500 пар слов. Он работает офлайн и одинаков для всех; ваши собственные слова хранятся отдельно."
+          }
+        }
+      }
+    },
+    "The keyboard learns the words you type. Its **Dictionary** page lists them; you can delete one word or all of them there." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The keyboard learns the words you type. Its **Dictionary** page lists them; you can delete one word or all of them there."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавиатура запоминает слова, которые вы набираете. Они перечислены на странице **«Словарь»** в её настройках; там можно удалить одно слово или все сразу."
+          }
+        }
+      }
+    },
+    "Tip: you can also add the keyboard via **Settings → General → Keyboard → Keyboards**" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tip: you can also add the keyboard via **Settings → General → Keyboard → Keyboards**"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подсказка: клавиатуру также можно добавить через **Настройки → Основные → Клавиатура → Клавиатуры**"
+          }
+        }
+      }
+    },
+    "Turn on **Tabasaran**" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn on **Tabasaran**"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включите **Табасаранский**"
+          }
+        }
+      }
+    },
+    "Type in your native language" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type in your native language"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пишите на родном языке"
+          }
+        }
+      }
+    },
+    "Word suggestions" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Word suggestions"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подсказки слов"
+          }
+        }
+      }
+    },
+    "ъ and Ӏ on their own keys; аь, гъ, гь, къ, кь, кӀ, пӀ, тӀ, уь, хъ, хь, цӀ, чӀ key by key or with one long press" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ъ and Ӏ on their own keys; аь, гъ, гь, къ, кь, кӀ, пӀ, тӀ, уь, хъ, хь, цӀ, чӀ key by key or with one long press"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ъ и Ӏ на отдельных клавишах; аь, гъ, гь, къ, кь, кӀ, пӀ, тӀ, уь, хъ, хь, цӀ, чӀ — по буквам или одним долгим нажатием"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
